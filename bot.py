@@ -591,4 +591,4 @@ async def help(ctx, comando: typing.Optional[str] = None):
         else:
             await ctx.send(f"Comando `{comando}` não encontrado. Use `r.help` para ver a lista de comandos disponíveis.")
 
-client.run('INSERT YOUR DISCORD BOT TOKEN HERE')
+client.run('COLOQUE O TOKEN DE SEU BOT DO DISCORD AQUI')
