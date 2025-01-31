@@ -1,0 +1,630 @@
+{
+    "Taeron": [
+        "Taeron, o Escuso, é um goblin grande e gordo, extremamente malicioso e ganancioso, proprietário de uma loja socada no fundo do beco do goblin, onde vende artefatos mágicos roubados ou contrabandeados. Seu preço para chosans costuma ser bem mais salgado e, apesar de não ser muito inteligente, Taeron é muito bem informado, o que o torna um recurso valiosíssimo do qual é fácil tirar informações do submundo da Dimensão.",
+        ""
+    ],
+    "Domênico": [
+        "O primeiro taverneiro da Dimensão, é conhecido também como MA’ESTR, um conselheiro diplomata que impede que as civilizações da dimensão entrem em conflito e que também protege a Dimensão de eventuais ameaças. Seu humor pouco amigável esconde uma preocupação com todos os chosans, e um carinho que não costuma ser expressado em gestos convencionais. É um especialista no uso de portais, e um exímio diplomata e general. Oferece missões complexas que envolvem o destino de toda a Dimensão.",
+        ""
+    ],
+    "Kalkhian": [
+        "O aprendiz de Domênico que agora carrega o fardo de assumir seu lugar. Kalkhian é animado e procura ajudar sempre que pode. Um excelente dominador do elemento terra, ótimo combatente corpo a corpo, e pocionista exímio. Vai estar na taverna a maior parte do tempo, mas pode ir às grandes cidades da Dimensão para cuidar de detalhes diplomáticos. Entrega missões diplomáticas ou de espionagem, na maioria das vezes.",
+        ""
+    ],
+    "Noya": [
+        "Um menino que se perdeu no tempo (literalmente). Apesar da aparência jovem e de ter tecnicamente apenas 12 anos, ele é bastante experiente e pode surpreender em combate ou em uma conversa. Suas habilidades envolvem manipulação de bolhas temporais. Por ser o mais rápido dentro da Dimensão, Noya viaja entre dimensões, entrega mensagens e presta socorros urgentes sempre que pode. É com ele que os Chosans podem encontrar missões de fora da Dimensão do Fim dos Tempos.",
+        ""
+    ],
+    "Motaro": [
+        "Um ferreiro aprendiz que tem uma leve experiência sobre navegar no Hiperfluxo. Motaro é brincalhão e bastante falador, além de curioso. Em combate ele atua tanto em lutas de proximidade quanto à distância. No entanto, suas habilidades especiais são perfeitas para infiltrações, fugas e para surpreender os oponentes, sendo elas o teleporte e a manipulação de cristais de energia, de vitalidade, explosivos, de cópia de habilidades, e de teleporte. Ele vai ser normalmente encontrado no Mercado de Cristal, onde consegue peças e repara equipamentos. Missões para conseguir itens raros podem ser feitas com ele.",
+        ""
+    ],
+    "Laorin Domafera": [
+        "Filho do antigo rei Daurin Domafera, Laorin é um dos poucos Ancientes Tikki que sabe falar outros idiomas. Protege os animais da Dimensão com toda sua força. Pode inclusive se comunicar com os animais e é um excelente manipulador de magia de dimensão de bolso, usada para alocar diversos animais dentro da aldeia dos Tikkis. Pode ajudar a melhorar as habilidades dos Pets em troca de missões.",
+        ""
+    ],
+    "Razik Dimen'or": [
+        "Sobrinho da Rainha Anciã Leufen, Razik é uma figura extremamente amigável. Sua fala lenta pode enganar, já que Razik costuma ser bastante rápido e um excelente aliado em batalha. Razik é um exímio cartógrafo e conhece o território da Dimensão melhor que qualquer um. Pode conseguir mapas de lugares que ninguém conhece, e sabe como fugir de quase todos os pontos da Dimensão do Fim dos Tempos sem ser visto. Além disso, ele também é um dos maiores conhecedores sobre a mineração de cristais.",
+        ""
+    ],
+    "Erdok Lançafesta": [
+        "Esse anão que só fala rimando, ganhou sua taverna da Cidade dos Elfos quando salvou a pele da Rainha Aleta Brasanil em uma batalha, anos atrás. Ele sempre precisa de novos materiais pra criar a cerveja perfeita ou para melhorar suas habilidades como bardo, e sempre vai pedir sua ajuda pra conseguí-los.",
+        ""
+    ],
+    "Dorfor Alaruk": [
+        "O líder dos Lobos-Banshee é uma das criaturas mais antigas da Dimensão e carrega boa parte da história deste lugar. É quem deve procurar quando se precisa de alguma informação antiga ou quando precisa de informações sobre o mundo espiritual. É extremamente generoso e um defensor das idéias do Domenico, valorizando acima de tudo o respeito aos chosans. Consegue se comunicar facilmente com seres espirituais e até incorporar alguns deles temporariamente, adquirindo suas lembranças e habilidades.",
+        ""
+    ],
+    "Thraulianos": [
+        "Um grupo de bardos que vieram de um outro planeta e viveram por séculos em hibernação. Sua nave espacial é uma arca que equivale a uma pequena arca e detém o material genético de todo seu planeta. Eventualmente podem oferecer um COMPANHEIRO ALIENÍGENA, mas somente na FEIRA DA FERTILIDADE, que acontece uma vez por ano apenas. Além disso, podem oferecer missões para reestabelecer a Nave-Arca, buscando recursos em seu planeta de origem.",
+        ""
+    ],
+    "Elfos Guardiões": [
+        "Estão espalhados pela sociedade da Dimensão. Eles resgatam feras em situações de desamparo, e os colocam para adoção. Eles vêm de uma dimensão onde as feras são sagradas e por isso, salvar essas feras é uma questão de honra. Normalmente são bem diretos e podem recusar ceder feras para adoções à aventureiros que tenham histórico de maltratar animais (acredite, eles sempre sabem quem maltrata animais). Com eles também é possível pegar missões de recolocação de criaturas, onde é possível encontrar itens de criaturas mágicas que podem ser forjados em equipamentos.",
+        ""
+    ],
+    "Grifeiros": [
+        "Esses seres antropomórficos estão no centro das grandes cidades. São indivíduos que criam e emprestam grifos, para os viajantes da Dimensão. Eles possuem um grifo para cada necessidade e os cedem gratuitamente, mas atenção: machucar os grifos vai fazer com que os Grifeiros sigam o aventureiro responsável prontos para puní-lo.",
+        ""
+    ],
+    "Secretário das sombras": [
+        "Os sectários das sombras estão na Dimensão há muito tempo, mas ninguém sabe ao certo de onde vieram nem o que querem. Eles têm tentado viver uma vida comum depois da Batalha da Azura Sombria, na qual eles se posicionaram do lado das sombras, mas isso tem sido complicado.",
+        ""
+    ],
+    "O Mercador Valdiriano": [
+        "Os sectários das sombras estão na Dimensão há muito tempo, mas ninguém sabe ao certo de onde vieram nem o que querem. Eles têm tentado viver uma vida comum depois da Batalha da Azura Sombria, na qual eles se posicionaram do lado das sombras, mas isso tem sido complicado.",
+        ""
+    ],
+    "Aotamat": [
+        "Uma criatura lendária que vive no mar da Praia do Mirante, alimentando-se da magia presa em equipamentos e armas lendárias. Os Tikki a alimentam de tempos em tempos para evitar que ela ataque a aldeia.",
+        ""
+    ],
+    "Arak": [
+        "Um antigo Chosan aprisionado na Convergência Sombria, uma área da Dimensão dominada por seres sombrios. Ele está preso na Floresta do Meio, onde as Sombras, Penumbras e Pesadelos nascem e crescem.",
+        ""
+    ],
+    "Beeth e Nivtar": [
+        "Os dois únicos dragões ancestrais da Dimensão, que vivem na Floresta Mística de Alignar. Eles são protetores da cidade dos Elfos e estão ligados à árvore sagrada Alignar, que conecta a Dimensão ao Hiperfluxo.",
+        ""
+    ],
+    "Cidade de Cristal": [
+        "Uma cidade habitada por tartarugas antropomórficas e pacifistas que carregam grandes pedaços de cristal em suas costas. A cidade é dividida em três bairros principais: Bairro Alto, Bairro Baixo e Lago Espectral. Possui o maior hospital da Dimensão e é um grande ponto de convergência.",
+        ""
+    ],
+    "Cidade dos Elfos": [
+        "Uma cidade governada pelas Fadas Fogo-Fátuo, seres espectrais que podem assumir forma corpórea. A cidade é dividida em quatro partes: Cidade Alta, Beco do Goblin, Bairro de Boas-Vindas e Floresta Mística de Alignar. Abriga a Biblioteca Dimensional e a árvore sagrada Alignar.",
+        ""
+    ],
+    "Floresta dos Lobos Banshee": [
+        "A maior e mais fechada floresta da Dimensão, habitada pelos Lobos-Banshee, criaturas sensíveis ao mundo espiritual. A floresta esconde tesouros poderosos e segredos devastadores, e é difícil de navegar sem a ajuda dos Lobos-Banshee.",
+        ""
+    ],
+    "Pantano da Queda": [
+        "Um pântano vasto e perigoso, onde a vida parece querer fugir. A flora e a fauna são agressivas e venenosas. No centro do pântano está a Árvore Mãe do Pantano, uma criatura misteriosa que inspira medo.",
+        ""
+    ],
+    "Espinhaço do Dragão": [
+        "Uma cadeia de montanhas inóspita e intimidadora, com calor extremo e pouca vida. Abriga o Bar do Darik, um local para anti-heróis e mercenários, e o Assentamento dos Sectários, um grupo de magos que usam magia escura.",
+        ""
+    ],
+    "Memorial dos Heróis": [
+        "Um cemitério montado para grandes heróis, localizado ao sudeste da Cratera. Os espíritos dos heróis podem ser acordados tocando em suas armas, e eles podem conceder habilidades e poderes especiais em troca de algo.",
+        ""
+    ],
+    "Taverna/Cratera": [
+        "Uma área que surgiu após uma batalha intensa entre o antigo taverneiro e um monstro. A cratera tornou-se um lago, e agora abriga uma taverna e o Atol Dimensional, onde os Chosans aparecem com mais frequência.",
+        ""
+    ],
+    "Árvore Mãe do Pantano": [
+        "Uma árvore localizada no centro do Pantano da Queda, com grandes raízes e um corpo feminino feito de madeira. O musgo que nasce dela pode funcionar como um localizador dentro do Hiperfluxo, mas também é altamente tóxico.",
+        ""
+    ],
+    "Gruta do Rouba-Faces": [
+        "Uma caverna no início do Pantano da Queda, habitada por uma criatura que rouba faces. A criatura está adormecida após um desabamento, mas ainda inspira medo nos habitantes locais.",
+        ""
+    ],
+    "Nave dos Thraulianos": [
+        "Uma nave espacial que surgiu após o desabamento da Gruta do Rouba-Faces. A nave é uma arca que guarda o material genético do planeta Thralle, e os Thraulianos, bardos em hibernação, estão tentando manter os animais sob controle.",
+        ""
+    ],
+    "Fenda de Garona": [
+        "Uma fenda oculta em uma caverna na base do Espinhaço do Dragão. É extremamente difícil de acessar e parece levar para o interior da montanha.",
+        ""
+    ],
+    "Trono de Darnol": [
+        "Um trono perdido no meio da Floresta dos Lobos Banshee. Quem se senta nele nunca mais quer voltar e não consegue dizer o que acontece lá. Uma estranha vinha se move ao redor do trono, abraçando quem se senta.",
+        ""
+    ],
+    "Templos Élficos da Lua": [
+        "Templos antigos abandonados pelos antigos elfos, espalhados pela Dimensão. Eles são cercados de mistérios, e dizem que antigas entidades se materializavam nesses lugares. Pessoas feridas curam mais rápido nesses templos.",
+        ""
+    ],
+    "Grupo Cura": [
+        "Grupo composto por curandeiros, médicos, magos de cura e outros especialistas em manutenção de PV e PE. Eles podem sugar, doar, trocar e destruir PV e PE, além de curar ferimentos e identificar pontos vitais e fraquezas de oponentes. Possuem conhecimento de ervas medicinais e usam apenas armas leves. Habilidades incluem Herbologia, Imobilizar, Benção Arcana e Vampirismo Leve.",
+        ""
+    ],
+    "Grupo Guerra": [
+        "Grupo composto por guerreiros, bárbaros, brigões e guerrilheiros. São especialistas em causar dano rápido e podem usar qualquer arma branca sem penalidades. Recebem penalidades com armas de arremesso e itens mágicos. Podem absorver dano baseado em 1d6 após passar no teste de Resistência. Habilidades incluem Nivelar por Baixo, Antecipar, Estocada e Fúria.",
+        ""
+    ],
+    "Grupo Controle": [
+        "Grupo composto por bardos, hipnotizadores, ilusionistas, ladinos e negociadores. Especialistas em manipulação, sugestão e controle de mentes. Podem criar ilusões não táteis e círculos mágicos que atraem projéteis. Habilidades incluem Coação, Círculo de Atração, Imitação e Esquecimento.",
+        ""
+    ],
+    "Grupo Caça": [
+        "Grupo composto por caçadores, assassinos, ladrões e ladinos. Especialistas em ataques à distância, rastreio, armadilhas e venenos. Podem criar armadilhas e armas brancas utilizando objetos do ambiente. Habilidades incluem Agugar, Sob as Sombras, Picada e Armadilheiro Mestre.",
+        ""
+    ],
+    "Grupo Sacrifício": [
+        "Grupo composto por necromantes, druidas e magos. Utilizam habilidades poderosas com alto custo, muitas vezes envolvendo sacrifícios de energia ou materiais. Podem reviver/invocar mortos, ancients e projeções arcanas. Habilidades incluem Compensação, Fôlego Novo, Encouraçar e Gana.",
+        ""
+    ],
+    "Grupo Dobras": [
+        "Grupo composto por dobradores, que manipulam elementos como água, terra, ar e fogo. Podem criar golems elementais, armas brancas e armaduras elementais. São ágeis e conectados com o ambiente. Habilidades incluem Golpe Congelante, Clone Elemental, Artilharia Elemental e Unidade com a Natureza.",
+        ""
+    ],
+    "Grupo Construção": [
+        "Grupo composto por construtores, ferreiros, artífices e alquimistas. Especialistas em criar, desmontar, aprimorar e reparar itens mágicos ou mecânicos. Utilizam conjuntos de peças para criar autômatos, veículos e poções. Habilidades incluem Afiamento, Companheiro Mecânico, Homem de Ferro e A Prova de Veneno.",
+        ""
+    ],
+    "Herbologia": [
+        "Habilidade do grupo Cura que concede +2 em Sabedoria para reconhecer ervas medicinais. Disponível no nível 3.",
+        ""
+    ],
+    "Imobilizar": [
+        "Habilidade do grupo Cura que permite imobilizar a parte do corpo atingida por 3 turnos, caso o oponente não resista. Custo: 1PE. Disponível no nível 5.",
+        ""
+    ],
+    "Benção Arcana": [
+        "Habilidade do grupo Cura que reduz o custo de PE dos feitiços de cura pela metade (arredondando para baixo). Disponível no nível 10.",
+        ""
+    ],
+    "Vampirismo Leve": [
+        "Habilidade do grupo Cura que recupera 3/5/10 PV ao causar dano mágico ao inimigo. A vida excedente não gera armadura. Disponível no nível 15.",
+        ""
+    ],
+    "Nivelar por Baixo": [
+        "Habilidade do grupo Guerra que faz com que 1, 2 ou 3 de Força sejam considerados acertos críticos. Disponível no nível 3.",
+        ""
+    ],
+    "Antecipar": [
+        "Habilidade do grupo Guerra que concede prioridade em todos os ataques corpo a corpo e de curta distância. Disponível no nível 5.",
+        ""
+    ],
+    "Estocada": [
+        "Habilidade do grupo Guerra que causa dano dobrado na próxima rodada. Custo: 1PE. Disponível no nível 10.",
+        ""
+    ],
+    "Fúria": [
+        "Habilidade do grupo Guerra que causa dano dobrado quando o personagem está com 3 PV ou menos. Disponível no nível 15.",
+        ""
+    ],
+    "Coação": [
+        "Habilidade do grupo Controle que concede +2 em Sabedoria em testes de persuasão. Disponível no nível 3.",
+        ""
+    ],
+    "Círculo de Atração": [
+        "Habilidade do grupo Controle que cria um círculo mágico que atrai projéteis mágicos e não mágicos. Custo: 2PE por turno. Disponível no nível 5.",
+        ""
+    ],
+    "Imitação": [
+        "Habilidade do grupo Controle que permite aprender temporariamente (5 turnos) uma habilidade de outro indivíduo em nível básico. Requer teste de Sabedoria ou Resistência. Disponível no nível 10.",
+        ""
+    ],
+    "Esquecimento": [
+        "Habilidade do grupo Controle que faz o oponente esquecer uma habilidade por 5 turnos. Custo: 5PE. Disponível no nível 15.",
+        ""
+    ],
+    "Agugar": [
+        "Habilidade do grupo Caça que concede +2 em Percepção em qualquer teste. Disponível no nível 3.",
+        ""
+    ],
+    "Sob as Sombras": [
+        "Habilidade do grupo Caça que concede +2 em Habilidade em testes de furtividade. Disponível no nível 5.",
+        ""
+    ],
+    "Picada": [
+        "Habilidade do grupo Caça que adiciona envenenamento 1 em ataques básicos com armas cortantes. Disponível no nível 10.",
+        ""
+    ],
+    "Armadilheiro Mestre": [
+        "Habilidade do grupo Caça que permite criar armadilhas explosivas, venenosas e congelantes, com custo equivalente ao tamanho. Disponível no nível 15.",
+        ""
+    ],
+    "Compensação": [
+        "Habilidade do grupo Sacrifício que concede PE igual a 50% do dano recebido. Disponível no nível 3.",
+        ""
+    ],
+    "Fôlego Novo": [
+        "Habilidade do grupo Sacrifício que permite reviver um morto/anciente/projeção com resistência 10 para lutar ao seu lado. Custo: 2PE. Disponível no nível 5.",
+        ""
+    ],
+    "Encouraçar": [
+        "Habilidade do grupo Sacrifício que cria temporariamente uma armadura mágica +5 PE. Disponível 1 vez ao dia. Disponível no nível 10.",
+        ""
+    ],
+    "Gana": [
+        "Habilidade do grupo Sacrifício que causa dano dobrado quando o personagem está com 2 PV ou menos. Disponível no nível 15.",
+        ""
+    ],
+    "Golpe Congelante": [
+        "Habilidade do grupo Dobras que causa -2 em Agilidade ao oponente após um golpe corpo a corpo. Disponível no nível 3.",
+        ""
+    ],
+    "Clone Elemental": [
+        "Habilidade do grupo Dobras que permite criar um clone elemental com resistência 10 para lutar ao seu lado. Custo: 2PE. Disponível no nível 5.",
+        ""
+    ],
+    "Artilharia Elemental": [
+        "Habilidade do grupo Dobras que permite combinar dois elementos em projéteis, causando dano dobrado. Disponível no nível 10.",
+        ""
+    ],
+    "Unidade com a Natureza": [
+        "Habilidade do grupo Dobras que concede imunidade a dano de afogamento, incêndio e congelamento. Disponível no nível 15.",
+        ""
+    ],
+    "Afiamento": [
+        "Habilidade do grupo Construção que aumenta o dano da arma aprimorada em +1d6. Só pode ser aprimorada uma vez. Disponível no nível 3.",
+        ""
+    ],
+    "Companheiro Mecânico": [
+        "Habilidade do grupo Construção que permite criar um mascote mecanóide com resistência 10. O custo depende da classe do item. Disponível no nível 5.",
+        ""
+    ],
+    "Homem de Ferro": [
+        "Habilidade do grupo Construção que permite encantar individualmente cada parte da armadura. Disponível no nível 10.",
+        ""
+    ],
+    "A Prova de Veneno": [
+        "Habilidade do grupo Construção que concede imunidade a efeitos de envenenamento e resistência a explosões e incêndios. Disponível no nível 15.",
+        ""
+    ],
+    "Vidência": [
+        "Habilidade que permite prever o próximo dano que seria causado pelo oponente. Custo: 2PE. Alcance: Pessoal/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Bater Carteira": [
+        "Habilidade que concede +3 em Habilidade para tentar roubar um item (até classe 2) do oponente. Custo: 2PE. Alcance: Corpo a Corpo/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Golpe de Sorte": [
+        "Habilidade que concede +2 em Sorte e permite repetir uma habilidade especial com custo zero. Custo: 2PE. Alcance: Pessoal/Linha Reta. Duração: Instantânea.",
+        ""
+    ],
+    "Desnortear": [
+        "Habilidade que permite acertar dois golpes se o oponente não passar no teste de Percepção. Custo: 1PE. Alcance: Corpo a Corpo/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Desarmar": [
+        "Habilidade que desarma o oponente se ele não desviar. Custo: 2PE. Alcance: Corpo a Corpo/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Armadilha de Urso": [
+        "Habilidade que cria uma armadilha mágica que mantém o mascote do oponente. O mascote ainda pode usar habilidades. Custo: 2PE. Alcance: Até 10 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Transferência de Mana": [
+        "Habilidade que transfere uma quantidade de mana para outro personagem. Custo: 2PE. Alcance: Até 10 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Exaustão": [
+        "Habilidade que faz o oponente gastar o dobro de Mana no próximo turno. Custo: 2PE. Alcance: Até 10 metros/Área. Duração: Variável.",
+        ""
+    ],
+    "Inspirar": [
+        "Habilidade que concede +1 em Agilidade e +1 em Habilidade para um alvo. Custo: 3PE. Alcance: Até 10 metros/Área. Duração: Até 5 turnos.",
+        ""
+    ],
+    "Portal Vacuum": [
+        "Habilidade que abre um portal por onde passa um meteoro em chamas. Custo: 7PE. Alcance: 100-600 metros/Área. Duração: Instantânea.",
+        ""
+    ],
+    "Canção da Vida": [
+        "Habilidade que recupera a vida do campeão e todos os aliados equivalente à quantidade de mana usada. Custo: 2PE + 1PE por indivíduo. Alcance: Até 10 metros/Área. Duração: Instantânea.",
+        ""
+    ],
+    "Canção da Guerra": [
+        "Habilidade que dobra o dano causado pelo campeão e todos os aliados nesse turno. Custo: 4PV. Alcance: Até 10 metros/Área. Duração: Instantânea.",
+        ""
+    ],
+    "Enraizar": [
+        "Habilidade que usa raízes do local para prender o alvo, impedindo-o de se deslocar. Sujeito a resistência. Custo: 2PE. Alcance: Até 5 metros/Área. Duração: Variável.",
+        ""
+    ],
+    "Anulação": [
+        "Habilidade que impede o oponente de usar habilidades enquanto o feitiço é mantido. O usuário não pode fazer mais nada enquanto usa esta habilidade. Custo: 1PE. Alcance: Até 5 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Berserquificar": [
+        "Habilidade passiva que causa dano dobrado em todos os ataques quando o personagem está com 10% da vida total. Alcance: Pessoal/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Refestelar": [
+        "Habilidade passiva que recupera 10 de vida para cada oponente derrotado. Alcance: Pessoal/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Adormecer Criatura": [
+        "Habilidade que impede feras e mascotes de usar habilidades enquanto a habilidade é mantida. Custo: 2PE. Alcance: Até 10 metros/Área. Duração: Até 5 turnos.",
+        ""
+    ],
+    "Miragem": [
+        "Habilidade que cria miragens que enganam a visão e audição. Custo: 1PE. Alcance: Até 5 metros/Área. Duração: Até 3 turnos.",
+        ""
+    ],
+    "Bola de Fogo": [
+        "Habilidade que causa 1 de dano por PE gasto e 1 de queimadura por 2 turnos após atingir o alvo. Custo: 1PE. Alcance: 5 metros/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Telecinese": [
+        "Habilidade que permite erguer um objeto (com até o peso do usuário) com a mente após passar por um teste de Força. Custo: 2PE. Alcance: 10 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Telepatia": [
+        "Habilidade que permite enviar uma mensagem telepática para um alvo ou ler pensamentos de um alvo visual. Custo: 2PE. Alcance: 15 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Intangibilidade": [
+        "Habilidade que torna o usuário intangível a objetos e permite tornar pequenos objetos intangíveis também. Custo: 2PE. Alcance: Pessoal/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Garra de Vampiro": [
+        "Habilidade que causa 2 de dano enquanto recupera 1 de PV. Custo: 1PE. Alcance: Corpo a Corpo/Pontual. Duração: Instantânea.",
+        ""
+    ],
+    "Tiro Venenoso": [
+        "Habilidade que causa 1 de dano de PV e +1 de dano por envenenamento nos turnos posteriores. Custo: 1PE. Alcance: Até 50 metros/Linha Reta. Duração: Variável.",
+        ""
+    ],
+    "Couraça": [
+        "Habilidade que concede 2 de armadura (PV extra). Custo: 2PE. Alcance: Pessoal/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Mach de Deslocamento": [
+        "Habilidade que permite avançar o dobro da distância em um único ato ou se deslocar e realizar uma ação no mesmo ato. Custo: 2PE. Alcance: Pessoal/Linha Reta. Duração: Variável.",
+        ""
+    ],
+    "Cura": [
+        "Habilidade que recupera +1PV (por PE gasto) de um alvo. Custo: 1PE. Alcance: Até 15 metros/Pontual. Duração: Variável.",
+        ""
+    ],
+    "Canção da Vitória": [
+        "Habilidade que concede +1 de Habilidade para todos os aliados. Custo: 1PE por aliado. Alcance: Até 10 metros/Área. Duração: 5 turnos.",
+        ""
+    ],
+    "Benção de Aludan": [
+        "Habilidade que causa -2 de Agilidade nos alvos enquanto mantida. Custo: 3PE. Alcance: Até 10 metros/Área. Duração: Variável.",
+        ""
+    ],
+    "Criar/Evocar Golems Elementais": [
+        "Habilidade do grupo Dobras que permite criar golems elementais e armas brancas, pagando 1PE para objetos pequenos, 2PE para objetos médios, 3PE para objetos grandes e 4PE para construtos com mais de 2 metros de altura. Cada metro adicional custa 1PE extra.",
+        ""
+    ],
+    "Criar Autômatos e Veículos": [
+        "Habilidade do grupo Construção que permite criar autômatos e veículos, pagando 1PE para objetos pequenos, 2PE para objetos médios, 3PE para objetos grandes e 4PE para golems mecânicos e veículos. Cada metro adicional custa 1PE extra.",
+        ""
+    ],
+    "Criar Poções": [
+        "Habilidade do grupo Construção que permite produzir poções de efeitos variados, utilizando conjuntos de peças e materiais específicos. A qualidade da poção depende da habilidade do alquimista e dos materiais utilizados.",
+        ""
+    ],
+    "Criar Armadilhas": [
+        "Habilidade do grupo Caça que permite criar armadilhas pequenas, médias, grandes e gigantes, pagando 1PE para armadilhas pequenas, 2PE para armadilhas médias, 3PE para armadilhas grandes e 4PE para armadilhas gigantes. Cada metro adicional custa 1PE extra. As armadilhas podem ter efeitos como chamariz, veneno, explosão ou congelamento.",
+        ""
+    ],
+    "Reviver/Invocar Mortos/Ancients/Projeções Arcanas": [
+        "Habilidade do grupo Sacrifício que permite reviver ou invocar mortos, ancients ou projeções arcanas com 2PV, pagando 2PE para cada invocação e 1PE para cada PV adicional. Para evocações com mais de 2 metros de altura, o custo é de 4PE, com 1PE extra para cada metro adicional.",
+        ""
+    ],
+    "Criar Ilusões": [
+        "Habilidade do grupo Controle que permite criar ilusões não táteis, pagando 1PE para ilusões pequenas, 2PE para ilusões médias, 3PE para ilusões grandes e 4PE para ilusões com mais de 2 metros de altura. Cada metro adicional custa 1PE extra. Todas as ilusões possuem chamariz.",
+        ""
+    ],
+    "Criar Círculos Mágicos": [
+        "Habilidade do grupo Controle que permite criar círculos mágicos com efeitos variados, como atrair projéteis ou criar áreas de proteção. O custo e os efeitos dependem do tipo de círculo criado.",
+        ""
+    ],
+    "Criar Portais": [
+        "Habilidade avançada que permite criar portais para viajar entre dimensões ou locais dentro da Dimensão do Fim dos Tempos. Requer grande quantidade de magia e pode ter um limite de usos.",
+        ""
+    ],
+    "Manipulação de Cristais": [
+        "Habilidade que permite forjar cristais em equipamentos, concedendo efeitos especiais como afiação, teleporte, armazenamento de magia arcana, bloqueio de magia, resistência, canalização de energia negra ou branca, e armazenamento de habilidades. Requer um teste de Habilidade com penalidade para cada cristal adicional forjado.",
+        ""
+    ],
+    "Teleporte": [
+        "Habilidade que permite ao usuário se teleportar para um local desenhado no Magnus Criptum. A precisão do desenho influencia a eficácia do teleporte.",
+        ""
+    ],
+    "Restauração de Ambientes": [
+        "Habilidade que permite restaurar ambientes destruídos ao desenhar como o local deveria ser. Revela itens escondidos, pistas para mistérios e novas habilidades.",
+        ""
+    ],
+    "Aquisição de Informações": [
+        "Habilidade que permite adquirir informações sobre monstros, criaturas, plantas, lugares e artefatos místicos ao desenhar as criaturas no Magnus Criptum. A precisão do desenho influencia a qualidade da informação.",
+        ""
+    ],
+    "Criar Equipamentos Mágicos": [
+        "Habilidade que permite criar equipamentos mágicos utilizando diagramas e materiais específicos. A qualidade do equipamento depende da habilidade do ferreiro e da precisão do diagrama. Requer um teste de Habilidade com penalidade equivalente à classe do item.",
+        ""
+    ],
+    "Aprimorar Equipamentos": [
+        "Habilidade que permite aprimorar equipamentos existentes, adicionando atributos extras ou efeitos especiais. Requer um teste de Habilidade do ferreiro e materiais específicos. Se o teste falhar, o material é perdido, mas o equipamento permanece inalterado.",
+        ""
+    ],
+    "Criar Chaves": [
+        "Habilidade do grupo Construção que permite criar chaves para qualquer item não mágico. Não requer teste de Habilidade.",
+        ""
+    ],
+    "Criar Armaduras Metálicas": [
+        "Habilidade do grupo Construção que permite criar armaduras metálicas com efeitos extras variados. As armaduras podem ser encantadas individualmente, dependendo do nível do personagem.",
+        ""
+    ],
+    "Criar Veículos": [
+        "Habilidade do grupo Construção que permite criar veículos, como carruagens ou máquinas voadoras, utilizando conjuntos de peças e materiais específicos. O custo e o tempo de criação dependem da complexidade do veículo.",
+        ""
+    ],
+    "Criar Golems Mecânicos": [
+        "Habilidade do grupo Construção que permite criar golems mecânicos com resistência 10. O custo depende da classe do item e do tamanho do golem.",
+        ""
+    ],
+    "Criar Armaduras Elementais": [
+        "Habilidade do grupo Dobras que permite criar armaduras elementais que protegem de acordo com sua classe (1PV para classe 1, 2PV para classe 2, etc.) e podem anular alguns efeitos. Armaduras de água anulam efeitos de incêndio, de terra anulam envenenamento, de ar anulam efeitos que prejudicam a precisão, e de fogo causam dano ao oponente em contato físico.",
+        ""
+    ],
+    "Criar Projeções Arcanas": [
+        "Habilidade do grupo Sacrifício que permite criar projeções arcanas com 2PV, pagando 2PE para cada invocação e 1PE para cada PV adicional. Para evocações com mais de 2 metros de altura, o custo é de 4PE, com 1PE extra para cada metro adicional.",
+        ""
+    ],
+    "Criar Ilusões Táteis": [
+        "Habilidade avançada do grupo Controle que permite criar ilusões táteis, que podem ser sentidas e interagidas. O custo e a complexidade dependem do tamanho e da duração da ilusão.",
+        ""
+    ],
+    "Criar Dimensões de Bolso": [
+        "Habilidade avançada que permite criar dimensões de bolso, pequenos universos alternativos que podem ser usados para armazenamento, treinamento ou refúgio. Requer grande quantidade de magia e conhecimento específico.",
+        ""
+    ],
+    "Criar Portais Dimensional": [
+        "Habilidade avançada que permite criar portais para viajar entre dimensões ou locais dentro da Dimensão do Fim dos Tempos. Requer grande quantidade de magia e pode ter um limite de usos.",
+        ""
+    ],
+    "Criar Feitiços Personalizados": [
+        "Habilidade que permite criar feitiços personalizados, combinando diferentes tipos de magia e efeitos. A eficácia do feitiço depende da habilidade do usuário e dos materiais utilizados.",
+        ""
+    ],
+    "Criar Poções de Efeitos Variados": [
+        "Habilidade do grupo Construção que permite produzir poções de efeitos variados, como cura, veneno, aumento de atributos, etc. A qualidade da poção depende da habilidade do alquimista e dos materiais utilizados.",
+        ""
+    ],
+    "Criar Armadilhas Explosivas": [
+        "Habilidade do grupo Caça que permite criar armadilhas explosivas, que causam dano em área quando ativadas. O custo e o dano dependem do tamanho e da complexidade da armadilha.",
+        ""
+    ],
+    "Criar Armadilhas Venenosas": [
+        "Habilidade do grupo Caça que permite criar armadilhas venenosas, que aplicam efeitos de envenenamento quando ativadas. O custo e a intensidade do veneno dependem dos materiais utilizados.",
+        ""
+    ],
+    "Criar Armadilhas Congelantes": [
+        "Habilidade do grupo Caça que permite criar armadilhas congelantes, que reduzem a agilidade do alvo quando ativadas. O custo e a duração do efeito dependem dos materiais utilizados.",
+        ""
+    ],
+    "Frisk": [
+        "Companheiro localizado na Floresta do Meio. Causa Envenenamento 1 ao alvo somente ao causar o primeiro dano. Atributos: AGI 11, HAB 11, FOR 8, INS 10. Vida: 2. Dano: 1.",
+        ""
+    ],
+    "Falcodrago Azul": [
+        "Companheiro localizado na Floresta do Meio e Aldeia Banshee. Possui a habilidade de Drenagem 1, causando dano exclusivo à Energia do oponente. Atributos: AGI 10, HAB 10, FOR 10, INS 10. Vida: 2. Dano: 1.",
+        ""
+    ],
+    "Falcodrago Verde": [
+        "Companheiro localizado no Pantano da Queda. Causa Envenenamento 1 ao alvo sempre que causa dano. Atributos: AGI 11, HAB 10, FOR 9, INS 10. Vida: 1. Dano: 1.",
+        ""
+    ],
+    "Falcodrago Vermelho": [
+        "Companheiro localizado no Espinhaço do Dragão. Causa Incêndio 2. Atributos: AGI 8, HAB 10, FOR 12, INS 10. Vida: 1. Dano: 2.",
+        ""
+    ],
+    "Mescla Selva": [
+        "Companheiro localizado na Floresta do Meio. Concede +2 em Agilidade em testes de furtividade e +1 em Habilidade ao companheiro a cada turno. Atributos: AGI 10, HAB 8, FOR 10, INS 12. Vida: 1. Dano: 2.",
+        ""
+    ],
+    "Mescla Neve": [
+        "Companheiro localizado no Domínio dos Ancientes Tikki. Causa Congelamento 1 e concede +1 de Agilidade ao aliado a cada turno. Atributos: AGI 11, HAB 11, FOR 8, INS 10. Vida: 1. Dano: 2.",
+        ""
+    ],
+    "Drone de Cura": [
+        "Companheiro localizado na Cidade dos Elfos e Cidade de Cristal. Recupera 1 de vitalidade a cada turno. Atributos: AGI 15, HAB 15, FOR 10, INS 0. Vida: 3. Dano: 0.",
+        ""
+    ],
+    "Drone de Ataque": [
+        "Companheiro localizado na Cidade dos Elfos e Cidade de Cristal. Aumenta o dano causado pelo alvo em 1 ponto. Atributos: AGI 15, HAB 15, FOR 10, INS 0. Vida: 2. Dano: 1.",
+        ""
+    ],
+    "Urso de Pedra": [
+        "Companheiro localizado na Floresta do Meio. Possui a habilidade de Chamariz, tornando-se o alvo primário de todos os oponentes. Concede +2 de vitalidade extra (Armadura) ao alvo. Atributos: AGI 10, HAB 7, FOR 13, INS 10. Vida: 3. Dano: 0.",
+        ""
+    ],
+    "Arraia Etérea": [
+        "Companheiro localizado na Cidade de Cristal e Lago Espectral. Possui a habilidade de Drenagem 1 e concede uma carga extra de 3 Energia ao alvo quando ele chega a 0. Atributos: AGI 12, HAB 12, FOR 12, INS 14. Vida: 4. Dano: 1.",
+        ""
+    ],
+    "Unicórnio": [
+        "Companheiro localizado na Floresta de Alignar. Anula 1 habilidade de um alvo. Atributos: AGI 13, HAB 11, FOR 13, INS 13. Vida: 2. Dano: 3.",
+        ""
+    ],
+    "Grifo Inferior": [
+        "Companheiro localizado na Floresta de Alignar. Possui a habilidade de Transpassagem 2, causando dano à vida do oponente ignorando armadura. Atributos: AGI 14, HAB 12, FOR 14, INS 10. Vida: 2. Dano: 3.",
+        ""
+    ],
+    "Cérbero": [
+        "Companheiro localizado no Espinhaço do Dragão. Causa dano de Incêndio em Área, num raio de 5 metros. Atributos: AGI 16, HAB 10, FOR 14, INS 10. Vida: 2. Dano: 3.",
+        ""
+    ],
+    "Dragão Inferior": [
+        "Companheiro localizado na Floresta de Alignar. Causa Incêndio 2 e possui imunidade a magias. Atributos: AGI 17, HAB 18, FOR 18, INS 17. Vida: 3. Dano: 4.",
+        ""
+    ],
+    "Fênix": [
+        "Companheiro de localização desconhecida. Possui a habilidade de Chamariz e causa Incêndio 2. Atributos: AGI 18, HAB 17, FOR 18, INS 17. Vida: 4. Dano: 3.",
+        ""
+    ],
+    "Banshee": [
+        "Companheiro localizado na Floresta do Meio e Aldeia Banshee. Pode reviver um aliado e possui imunidade a magias. Atributos: AGI 19, HAB 19, FOR 13, INS 19. Vida: 7. Dano: 0.",
+        ""
+    ],
+    "Atributos": [
+        "Os atributos são características que definem as habilidades do personagem. Eles são divididos em FÍSICOS (Agilidade, Habilidade, Força) e NÃO-FÍSICOS (Sabedoria, Percepção, Sorte). Cada atributo influencia diferentes aspectos do jogo, como ataques, defesas, esquivas, manuseio de equipamentos, pesquisa, idiomas, carisma, percepção de detalhes e sorte. Os jogadores distribuem 60 pontos entre os atributos ao criar o personagem.",
+        ""
+    ],
+    "Vitalidade (PV)": [
+        "Representa a saúde do personagem, ou seja, o quanto ele pode resistir a danos antes de cair em coma. Cada ponto de Vitalidade é representado por um triângulo na ficha. Quando a Vitalidade chega a zero, o personagem entra em coma e só pode ser recuperado com um descanso longo ou tratamento equivalente.",
+        ""
+    ],
+    "Energia (PE)": [
+        "Representa a energia mágica, estamina ou chi do personagem, utilizada para realizar habilidades especiais. Cada habilidade tem um custo de PE, e quando a Energia chega a zero, o personagem não pode mais usar habilidades até que seja recuperada com descanso ou poções.",
+        ""
+    ],
+    "Armadura": [
+        "Representa pontos extras de Vitalidade ou Energia que protegem o personagem. A Armadura recebe dano antes dos atributos em si, exceto quando o efeito diz o contrário. A Armadura de Energia pode ser usada como um estoque extra para habilidades, mas sempre gastando o dobro de pontos de Energia.",
+        ""
+    ],
+    "Cálculo de Dano": [
+        "O dano é calculado com base em três tipos de rolagens: Cálculo de Corpo (define qual parte do corpo é atingida), Cálculo de Intensidade (define a força do impacto) e Cálculo de Dano (define o dano causado). A intensidade do impacto pode variar de fraco (1-2) a forte (5-6), com efeitos adicionais como envenenamento, fraturas ou mutilações.",
+        ""
+    ],
+    "Acertos Críticos e Erros Críticos": [
+        "Acertos críticos ocorrem quando o jogador tira 1 em um d20, resultando em consequências positivas drásticas. Erros críticos ocorrem quando o jogador tira 20, resultando em consequências negativas drásticas. Ambos podem influenciar a narrativa e as próximas jogadas.",
+        ""
+    ],
+    "Bonificações e Penalidades": [
+        "Bonificações e penalidades podem ser aplicadas com base em situações da história, características físicas, comportamentais, grupos de classe, equipamentos e atos anteriores. Por exemplo, um personagem com roupas escuras ganha bônus em testes de furtividade, enquanto um personagem com roupas claras tem penalidades.",
+        ""
+    ],
+    "Níveis e Progressão": [
+        "Os personagens sobem de nível conforme ganham pontos de experiência (XP). A progressão é de 5 pontos para o nível 1, 10 para o nível 2, 15 para o nível 3, e assim por diante. A cada 5 níveis, o personagem ganha 2 pontos para distribuir nos atributos e 2 pontos para aumentar sua Energia e/ou Vitalidade.",
+        ""
+    ],
+    "Grupos de Classes": [
+        "Os personagens são divididos em grupos de classes, cada um com habilidades e vantagens específicas. Os grupos incluem Cura, Guerra, Controle, Caça, Sacrifício, Dobras e Construção. Cada grupo concede 2 pontos extras em atributos específicos e habilidades únicas.",
+        ""
+    ],
+    "Itens e Equipamentos": [
+        "Os itens são organizados em mochilas (para itens de uso não frequente) e equipamentos (para itens de uso imediato). A mochila pode carregar até 7 itens sem penalidades, enquanto apenas 5 itens podem ser equipados. Armaduras e armas compostas contam como múltiplos itens.",
+        ""
+    ],
+    "Classes de Itens": [
+        "Os itens são classificados em 4 categorias: Classe 1 (itens pequenos e leves), Classe 2 (itens medianos), Classe 3 (itens grandes e pesados) e Classe 4 (itens maiores que um ser humano adulto). Cada classe tem regras específicas para criação, uso e transporte.",
+        ""
+    ],
+    "Escudos e Armaduras": [
+        "Escudos e armaduras concedem pontos extras de Vitalidade ao usuário. Eles são categorizados em níveis de resistência (1 a 6), que definem a quantidade de PV gerado e o custo de PE para criação. Escudos e armaduras elementais têm efeitos adicionais, como anular incêndios ou causar dano em contato físico.",
+        ""
+    ],
+    "Forja de Itens": [
+        "A forja de itens permite criar, aprimorar e reparar equipamentos. Requer diagramas, materiais específicos e testes de Habilidade. Itens forjados sem diagramas são mais frágeis e duram apenas uma sessão. Cristais podem ser forjados em equipamentos para conceder efeitos especiais.",
+        ""
+    ],
+    "Cristais": [
+        "Cristais são ferramentas mágicas que podem ser forjados em equipamentos para conceder efeitos especiais, como afiação, teleporte, armazenamento de magia arcana, bloqueio de magia, resistência, canalização de energia negra ou branca, e armazenamento de habilidades. Cada cristal tem uma cor e função específica.",
+        ""
+    ],
+    "Habilidades Especiais": [
+        "Cada personagem pode ter até 4 habilidades especiais, além de uma habilidade única nativa. As habilidades podem evoluir até o nível 3, aumentando seu efeito, alcance ou reduzindo seu custo. Habilidades únicas podem evoluir de forma única para cada personagem.",
+        ""
+    ],
+    "Nanquinomancia": [
+        "Habilidade única dos Chosans que permite manipular tinta e criar magia a partir dela. Com o Magnus Criptum (um sketchbook), os jogadores podem criar e aprimorar equipamentos, aprender novas habilidades, copiar habilidades, restaurar objetos e ambientes, adquirir informações e até teleportar para locais desenhados.",
+        ""
+    ],
+    "Viagens entre Dimensões": [
+        "A Dimensão do Fim dos Tempos está conectada a outras dimensões pelo Hiperfluxo. Viagens entre dimensões podem ser feitas com poções, grifos ou portais. Cada dimensão tem regras específicas, como mescla de identidades ou coexistência de linhas temporais.",
+        ""
+    ],
+    "Evento da Dobra": [
+        "Evento em que as dimensões se cruzam na Dimensão do Fim dos Tempos, causando mudanças visuais nos personagens e objetos. Essas mudanças podem ser desenhadas e usadas narrativamente, como skins de equipamentos.",
+        ""
+    ],
+    "Bestiário": [
+        "As criaturas da Dimensão são divididas em Feras, Espíritos, Autômatos e Elementais. Cada criatura tem atributos, habilidades e raridades (Comum, Rara, Lendária). Algumas criaturas podem se tornar companheiros dos jogadores, com habilidades como Envenenamento, Cura, Incêndio, Sangramento, Chamariz, Drenagem, Transpassagem e Congelamento.",
+        ""
+    ]
+}
