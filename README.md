@@ -1,6 +1,4 @@
 # Omnia Grimorium
-
-## Descrição
 Este projeto é um bot para servidores do Discord, projetado para auxiliar o jogo de sessões de RPG que usam o sistema "Taverna do Fim Dos Tempos", incluindo criação e gestão de fichas de personagens, rolagem de dados, gerenciamento de XP, e muito mais.
 
 ## Características Principais
